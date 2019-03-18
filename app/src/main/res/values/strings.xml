@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">rupeek</string>
+    <string name="title">Hi %1$s,</string>
+    <string name="subtitle">Welcome to TravelMate</string>
+    <string name="booknow">BOOK NOW</string>
+    <string name="price">Price per person</string>
+    <string name="rates">\u20B9 %1$d</string>
+
+</resources>
